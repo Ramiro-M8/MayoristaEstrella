@@ -9,3 +9,14 @@ C:\Users\_Hugo\OneDrive\Escritorio\net octubre ma vi\Clase 7\MayoristaEstrellaCo
 C:\Users\_Hugo\OneDrive\Escritorio\net octubre ma vi\Clase 7\MayoristaEstrellaCorregida\MayoristaEstrella\Bussiness\obj\Debug\Bussiness.csproj.CopyComplete
 C:\Users\_Hugo\OneDrive\Escritorio\net octubre ma vi\Clase 7\MayoristaEstrellaCorregida\MayoristaEstrella\Bussiness\obj\Debug\Bussiness.dll
 C:\Users\_Hugo\OneDrive\Escritorio\net octubre ma vi\Clase 7\MayoristaEstrellaCorregida\MayoristaEstrella\Bussiness\obj\Debug\Bussiness.pdb
+E:\Repos\NetEducacionIT\MayoristaEstrella\Bussiness\bin\Debug\Bussiness.dll
+E:\Repos\NetEducacionIT\MayoristaEstrella\Bussiness\bin\Debug\Bussiness.pdb
+E:\Repos\NetEducacionIT\MayoristaEstrella\Bussiness\bin\Debug\DAL.dll
+E:\Repos\NetEducacionIT\MayoristaEstrella\Bussiness\bin\Debug\Entidades.dll
+E:\Repos\NetEducacionIT\MayoristaEstrella\Bussiness\bin\Debug\DAL.pdb
+E:\Repos\NetEducacionIT\MayoristaEstrella\Bussiness\bin\Debug\Entidades.pdb
+E:\Repos\NetEducacionIT\MayoristaEstrella\Bussiness\obj\Debug\Bussiness.csprojAssemblyReference.cache
+E:\Repos\NetEducacionIT\MayoristaEstrella\Bussiness\obj\Debug\Bussiness.csproj.CoreCompileInputs.cache
+E:\Repos\NetEducacionIT\MayoristaEstrella\Bussiness\obj\Debug\Bussiness.csproj.CopyComplete
+E:\Repos\NetEducacionIT\MayoristaEstrella\Bussiness\obj\Debug\Bussiness.dll
+E:\Repos\NetEducacionIT\MayoristaEstrella\Bussiness\obj\Debug\Bussiness.pdb
